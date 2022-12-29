@@ -1,0 +1,23 @@
+.topnav {
+    overflow: hidden;
+    background-color: gray;
+}
+
+li {
+    overflow: hidden;
+    float: right;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+
+}
+
+.index-login-signup {
+    padding: 14px 16px;
+
+}
+.index-login-login {
+    padding: 14px 16px;
+
+}
